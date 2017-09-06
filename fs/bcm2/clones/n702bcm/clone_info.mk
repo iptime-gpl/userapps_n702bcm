@@ -1,0 +1,4 @@
+PRODUCT_ID := n702bcm
+CLASS_ID:=iptime
+BCM5357C0_SUPPORT:=y
+LANG_PACKS:=kr,en
